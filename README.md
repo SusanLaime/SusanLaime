@@ -1,5 +1,7 @@
 ## It's Susan 👋
 
+Let's begin a journey!
+
 <!--
 **SusanLaime/SusanLaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
