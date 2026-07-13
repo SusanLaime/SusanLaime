@@ -1,4 +1,4 @@
-# Hi, I'm Susan Laime Lucero
+# Susan Laime Lucero
 
 Computer Systems Engineering student at Universidad Privada Boliviana (UPB), Cochabamba, Bolivia.
 
