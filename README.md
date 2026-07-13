@@ -1,6 +1,6 @@
 # Susan Laime Lucero
 
-Technology ENthusiast | Computer Systems Engineering student 
+Technology Enthusiast | Computer Systems Engineering student 
 
 ## 👩‍💻 About Me
 
