@@ -29,6 +29,7 @@ GitHub • LaTeX • MediaPipe • OpenCV
 **Areas of Interest**
 
 * Artificial Intelligence
+* Competitive Programming
 * Ethical Hacking
 
 ## Achievements
